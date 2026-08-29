@@ -2,12 +2,12 @@
 [Visit My Website](https://venkatpalamani.github.io/Hackathon4_ECOGREEN/)
 
 manager login credentials :
-id : 99240040339
-pass : Venkat@0011
+id : manager
+pass : manager@0011
 
 user login credentials :
-id : 12345
-pass : 1234
+id : user
+pass : user@0011
 
 MY ROLE : TEAM LEADER 
 
